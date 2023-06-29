@@ -1,0 +1,5 @@
+-> we can change the primitive data types.
+-> we can use underscore in between number which will be ignored by compiler
+ ## home assignment
+ swap 2 numbers without using a third variable
+ x: 15
